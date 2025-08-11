@@ -81,13 +81,3 @@ Winner
 Game over
 
 
-
-
-
-
-
-Do you like this personality?
-
-
-
-Ask ChatGPT
