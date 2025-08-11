@@ -52,4 +52,5 @@ public class Hunt {
         }
 input.close();
     }
+
 }
